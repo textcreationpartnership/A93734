@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter sent to the Hague, about the latter end of May, 1691. with a book inclosed, (hereafter mentioned) and sealed up, and superscribed after the following manner. These for him that is commonly stiled, William King of Great Britain ... / Richard Stafford, a scribe of Jesus Christ, desireth temporal preservation and eternal salvation.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93734</idno>
+            <idno type="STC">Wing S5113</idno>
+            <idno type="STC">ESTC R229304</idno>
+            <idno type="EEBO-CITATION">38875596</idno>
+            <idno type="OCLC">ocm 38875596</idno>
+            <idno type="VID">152393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter sent to the Hague, about the latter end of May, 1691. with a book inclosed, (hereafter mentioned) and sealed up, and superscribed after the following manner. These for him that is commonly stiled, William King of Great Britain ... / Richard Stafford, a scribe of Jesus Christ, desireth temporal preservation and eternal salvation.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Richard Stafford.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Page three has caption title: To the Lords spiritual and temporal, and the Commons of England, at what time or place soever, they shall be in Parliament assembled. Richard Stafford, a scribe of Jesus Christ, desireth temporal preservation and eternal salvation.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:152393:1" rendition="simple:additions"/>
+            <head>A Copy of a Letter ſent to the <hi>Hague,</hi> about the latter end of <hi>May,</hi> 1691. with a Book incloſed, (hereafter mentioned) and ſealed up, and ſuperſcribed after the following Manner.</head>
+            <head type="sub">Theſe for Him that is commonly ſtiled, <hi>William</hi> King of Great <hi>Brittain, France, and Ireland,</hi> whereſoever he now inhabits in <hi>Holland,</hi> or in the other parts beyond the Sea, to be opened by himſelf only; with all carefulneſs and ſpeed. This is deſired and required in the Name of the Great and Almighty God, wheſe <hi>Truth it is.</hi>
+            </head>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>To the preſent King <hi>William, Richard Stafford, a</hi> Scribe of Jeſus Chriſt, desireth Temporal Preſervation, and Eternal Salvation.</salute>
+                  </opener>
+                  <p>IN Order to that, You are deſired and required (by the Duty which you owe unto God, and by that concern thou haſt for the welfare of thine Immortal Soul, in the ſuc<g ref="char:EOLhyphen"/>ceeding and eternal ſtate) to read theſe <hi>Words of his Law,</hi> and <hi>theſe Statutes of the Lord thy God,</hi> which are here gathered together in this ſhort incloſed printed teſtimony of Truth, entituled, <hi>Things plain and weighty,</hi> &amp;c. Which I have publiſhed forth unto the World, and have taken this method to ſend it unto thy ſelf, that thou mayeſt know the things which ſo greatly and immediately belong unto thee. Thou mayeſt in leſs than half a minute caſt thine Eye upon the lowermoſt Paragraph of <hi>Page</hi> 6. and then turn over to <hi>Page</hi> 12, wherein if it did ſo happen unto thee, as was expreſſed in the Publick <hi>Gazett,</hi> when thou wenteſt forth in the <hi>Ireland</hi> Expedition, that ſign may in like manner ſignify, as the <hi>renting of the Skirt of a Mantle</hi> to one of old, 1 <hi>Sam.</hi> 15.27, 28. <hi>That the Kingdom ſhall be removed from thee,</hi> (but thy Body ſhall not be hurt nor injured) <hi>and reſtored back to a Neighbour of thine,</hi> who had both the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight and Poſſeſſion, before thou tookeſt the laſt away from him by <hi>falſe Accuſation.</hi> It was an effect of God's infinite Mercy, that when thou hadſt <hi>taken Poſſeſſion,</hi> and afterwards didſt go forth <hi>to kill,</hi> 1 <hi>Kings</hi> 21.19. and thou didſt appear in an Open and Hoſtile manner againſt thy Uncle and Father in Law, that thou alſo didſt <hi>not fall at Ramoth-Gilead,</hi> 1 Kings 22.20, by a like Judgment which came upon <hi>Ahab,</hi> as is there recorded. Thou didſt not throughly conſider, that <hi>whoſoever hateth his Brother, is a Murderer: and ye know that no Murderer hath eternal life abiding in him,</hi> 1 John 3.15. and thou mayeſt for this be Judged by God, as one of thoſe <hi>Murderers of Fathers, and Manſlayers,</hi> 1 Tim 1.9. (againſt which <hi>the Law of God is made,</hi> and will take hold of thee, notwithſtanding thou art now above any Law of Man) although he fled for his Life, and eſcaped thine Hands; for God knows the Heart, and whither it was in thy mind to kill and ſlay, and deal with him as an Enemy. As alſo his Subjects will be pronounced <hi>Perjured Porſons,</hi> verſe 10. and are therefore liable to the future Vengeance of God, though now by reaſon of their multitude, they eſcape all preſent Puniſhment. <hi>Except ye repent, ye ſhall all ſuffer for theſe things.</hi> And if thou wilt go on in thy Diſobedience and Tranſgreſſion and Contempt of the Law of thy God; If thou wilt hold faſt that Kingdom thou haſt gotten by Violence and Wrong, <note n="*">Behold herein the height and depth of <hi>ſin,</hi> that a Worm of five or ſix foot long ſhould all againſt and con<g ref="char:EOLhyphen"/>trary to the Will and Command<g ref="char:EOLhyphen"/>ment of the great God who fills Hea<g ref="char:EOLhyphen"/>ven and Earth with his Preſence; and conſequently it involves the Creatures in a proportionableneſs and eternity of Puniſhment and Miſery.</note> 
+                     <hi>any Law or Ordinance of God to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding:</hi> If thou wilt ſtill try and endeavour to keep that which God hath determined to take from thee, he will nevertheleſs be too ſtrong for thee. For, <hi>as the Lord liveth, the</hi> Lord <hi>ſhall ſmite him, or his day ſhall come to die, or he ſhall deſcend into Battle and periſh,</hi> 1 Sam. 26.10. <hi>Yet thou ſhalt be brought down to hell</hi> (which there ſignifies the Grave) <hi>to the ſides of the Pit,</hi> Iſa. 14.15. And then <hi>the Kingdom will be removed from thee</hi> to thine eternal loſs. Then thou ſhalt remember, that <hi>Richard Stafford</hi> was the beſt Friend which thou hadſt in this
+<pb n="2" facs="tcp:152393:2"/>World; for he did long ago counſel and admoniſh K. <hi>William, ſeeing he is ſo deſirous of a Kingdom, that he take heed, leaſt by endeavouring to keep a tottering moveable Kingdom here on Earth, he loſe that Eternal Kingdom above, which cannot be ſhaken;</hi> which counſel at that time, <hi>viz.</hi> January 4. 1689. was not taken and received; but then there will be worſe and longer Indignation and Anguiſh, that thou didſt not in the days of thy Tryal, comply therewith. (Mark this) <q>God can turn the Hearts of our Lords, and Counſellors, and wiſe Men, that they may perceive their ſin and error: And they may undoe that by the words of Truth and Righteouſneſs, which was tranſacted by a little more than the greater number of thoſe who were miſled by Ignorance, ſinful and Ungodly Principles, or <hi>Thoughts of Iniquity.</hi>
+                     </q> So that if thou wilt not do it of thy own accord, and free mind, God will do it either by way of Judgment or Mercy. It is by way of Mercy, as long as there ſhall not be the leaſt harm done to thy outward Perſon; but only thou art to be <hi>Gently,</hi> Iſa. 40.11. (for ſo is God's method) put down one ſtep lower into that ſtation thou were in before. Herein no wrong will be done unto thee; For, <hi>Cannot Princes be contented; except they be altogether Kings?</hi> What a Confuſion and Diſturbance would this make throughout the whole Creation, if every Man, wherein God hath placed him, would not therein abide; but he would ſtep out or above his Rank, whither by Right or Wrong, Violence or Cunning? Thou ſenſibly, and by experience, knoweſt that Ambition is reſt<g ref="char:EOLhyphen"/>leſs and uneaſie, and <hi>thou art wearied in the greatneſs of thy way:</hi> So that if thou doſt come down from what thou art now climbed up, and to what thou wert before, thou wilt live more happy and contented here on Earth, and be in the true and ready way to Heaven, which is, in keeping tha Commandments of God, and not going aſide; but to remain in that calling or condition, in that rank and Degree, wherein the Creator of Mankind did place and appoint thee. However, Think or do whatever thou wilt, it is moſt wicked, and provoking to attempt it; but it is vain and impoſſible to <hi>reſiſt God.</hi> For though the Ungodly and Rebellious may ſeek and endeavour to do it for a while, yet he cannot long cont;nue to act contrary to what God hath purpoſed. <hi>There is no Wiſdom, nor <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing, nor Counſel againſt the Lord.</hi>
+                  </p>
+                  <p>It is my proper buſineſs to <hi>declare unto</hi> Jacob <hi>his tranſgreſſion, and to</hi> Iſrael <hi>his ſin;</hi> even to the King upon the Throne, all one as to the Beggar upon the Dunghil. And therefore I do here uſe this freedom in <hi>words of truth;</hi> for, Curſed is that Deceiver, who doth the Work of the Lord deceitfully. But I do really and unfeignedly deſire, that thou mayeſt live out all thoſe days, which God hath appointed to the Life of Man upon Earth. Take heed therefore, becauſe thou haſt bern a <hi>Man</hi> of <hi>War, whoſe ſword hath ſhed much blood:</hi> And it being both written, and often experienced, <hi>All they that take the Sword, ſhall periſh with the Sword,</hi> Mat. 26.52. and their Blood is oftentimes ſhed on the Earth: Thy own me<g ref="char:EOLhyphen"/>mory and knowledge can furniſh thee with ſeveral Examples of thoſe who have been at laſt killed in War, after they have fought many Battles, and eſcaped many near imminent dangers, I ſay again therefore unto thee, Take great heed unto thy ſelf, leaſt it ſhould happen unto thee after this manner: My hearts deſire and prayer unto God is, that thou mayeſt be <hi>eternally ſaved;</hi> but in order to that, it is neceſſary to tell thee, That <hi>it is im<g ref="char:EOLhyphen"/>poſſible f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r God to lie,</hi> ahd that it is a contradiction in terms, That he <hi>(who accepteth not the perſon of Princes, nor regardeth the rich more than the poor, for they are all the work of his hands)</hi> ſhould ſave any one whatever in the continued breach and tranſgreſſion and con<g ref="char:EOLhyphen"/>tempt of his own Laws. If the <hi>King</hi> doth indeed deſire to <hi>live for ever,</hi> and would be <hi>ſaved by Chriſt,</hi> and <hi>partake of the heavenly Bleſſing,</hi> there is no other way to obtain all this, but by <hi>turning himſelf away from his Iniquities,</hi> or In-Equities, <hi>viz.</hi> by ceaſing to do thoſe things which are not equal.</p>
+                  <p>As thou haſt any regard to thine own Eternal Happineſs or Miſery, conſider what is here written, and give <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>he glory, as to Obey him in all things. Only in ſo doing thou ſhalt.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dated from</hi> Lon<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>, <date>May 11. 1691.</date>
+                     </dateline>
+                     <salute>FARE WELL.</salute>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb n="3" facs="tcp:152393:2"/>
+                  <opener>
+                     <salute>
+                        <hi>To the</hi> Lords Spiritual and Temporal, <hi>and the</hi> Commons of England, <hi>at what Time or Place ſoever, They ſhall be in</hi> Parliament Aſſembled.</salute>
+                  </opener>
+                  <head>
+                     <hi>Richard Stafford,</hi> a Scribe of Jeſus Chriſt, deſireth Temporal Pre<g ref="char:EOLhyphen"/>ſervation, and Eternal Salvation.</head>
+                  <p>IN Order to that, I have ſent you theſe three Printed Teſtimonies of Truth, which God hath been pleaſed to ſhew unto me his Servant; to the intent that they may be care<g ref="char:EOLhyphen"/>fully laid up againſt the next Seſſions of <hi>Parliament,</hi> when they ſhall continue to ſit to do Buſineſs. Such a great Counſel and Aſſembly is not to be concerned with every trifle and impertinency; but ſeeing that it is now come to paſs in this Generation and latter days, That <hi>they who have ſo long ſate to make Laws for others, God hath now raiſed up one to ſet his Laws before themſelves;</hi> Ye ought not to be ſtill as your Fore-fathers, a Rebellious and Stubborn Generation, <hi>who have continually caſt away the Law of the Lord of Hoſts, and de<g ref="char:EOLhyphen"/>ſpiſed the Word of the Holy One of</hi> Iſrael, who will not ſuffer <hi>all his Judgments to be before you, but ye do put away his Statutes from you.</hi> For the times paſt may ſuffice the Nations to have reigned wholly themſelves, and to ſhut out the ſence of God with the knowledge and Obligation of his Law; this is hardly ſuffered to <hi>come into their minds, but in no wiſe to enter into their Conſultations.</hi> But this know, that God did never give Riches and Honour to any of his Creatures for them to deſpiſe him after this manner. Wherefore ye ought to receive and hearken, and attend unto the <hi>Words of his Grace and Truth.</hi> Whereby, or the like words, <hi>The Lord of Hosts hath purpoſed to Order and Eſtabliſh Government and Peace,</hi> (for both ſhould go together) <hi>with Judgment and with Juſtice, from henceforth even for <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>,</hi> and to ſettle Righ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eouſneſs in theſe three Kingdoms, which are united one to ano<g ref="char:EOLhyphen"/>ther: And the like way and method (by Obedience unto the Lord, and by doing ac<g ref="char:EOLhyphen"/>cording to the Laws, Rules, and Directions he hath given) will be tranſmitted to all the other Habitable Parts of the Earth. Which now with its <hi>Foundations are out of courſe, and the dark places thereof are full of the habitations of cruelty.</hi> But the way is ſhewed, and the means are left in your power to ſet them in right order again, and to adjuſt all things by way of Mercy and Reconciliation.</p>
+                  <p>It will be convenient upon the firſt day, or at the beginning of your Meeting, to bring forth theſe Books of Divine Truths in (which there is not one Sentence or Line, without Plain and weighty ſignification) that they may be read amongſt you. <hi>For the Word of the Great and Eternal God, ſhould be preferred before the Speech of a little and Dying Man.</hi>
+                  </p>
+                  <p>I thought it convenient to do thus, and advertiſe you hereof by this way of writing, or Epiſtle; becauſe in caſe of my own Mortality, <hi>That ye may be able after my Deceaſe so have theſe things always in Remembrance,</hi> If God, in whoſe hand my Breath is, ſhould take it away by Sickneſs, or common Accident; or if the Devil by his Incornate Inſtru<g ref="char:EOLhyphen"/>ments, and by the outward means of Aſſaſſination, Poyſon, cloſe Impriſonment; (and ſo dying for want of Air) or by that Judiciary kind of Murther, as in times paſt, as by <hi>ſlaying the Prophets for ſetting the Laws of God before the People,</hi> and for teſtifying against their Tranſgreſſion, and for exhorting to the Obſervance of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Commandments: Yet, if any of theſe ſhould happen unto me, I ſhall ſee again the People of my Ge<g ref="char:EOLhyphen"/>neration,
+<pb n="4" facs="tcp:152393:3"/>and more particularly, thoſe who ſhall <hi>Perſecute</hi> or <hi>Murther</hi> me. VVhich God forbid and reſtrain them from either. <hi>I ſhall alſo know, and make my Return how ye have received and obeyed this Word.</hi> However it was ſent unto, and delivered unto you at ſuch a Time, and after ſuch a manner, That ye may nevertheleſs take this great Matter into Conſultation. And if <hi>Righteouſneſs</hi> and <hi>Peace</hi> be then throughly and univerſally eſtabliſhed upon <hi>ſure, firm and laſting Foundations,</hi> It will be the moſt Glorious and Happy Seſſion that hath been in <hi>England</hi> this laſt hundred years, or ever ſince it hath been a Nation and People. For it is both their bounden Duty, and it is neceſſarily required to their Good, for the whole World, and all things therein to obey the Law of their great Creator. And notwithſtanding all fooliſh, vain or falſe Ima<g ref="char:EOLhyphen"/>ginations, This will be your <hi>Wiſdom</hi> and your <hi>Honour</hi> in the ſight of the other Nations of the World, and all beſides that is really excellent and truly deſirable.</p>
+                  <p>Which, that ye may all do, I ſhall not only pray to God after the manner of <hi>Formal Clergy-Men,</hi> or <hi>Mock-Worſhippers;</hi> But I do herein put you in Mind, That ye both may; and alſo ye are hereby required to do according as God hath ſaid and commanded in the Bible. And to this the Obligation is as much greater then for any to comply with your Acts, Statutes, Ordinances, Conſtitutions, as <hi>God</hi> is great than Man, <hi>Heaven</hi> higher than Earth, <hi>Eternity</hi> longer than this ſhort Life, a moſt perfect and enduring Happineſs, and Salvation doth exceed the fading, imperfect, trivial Conveniencies, and the utmoſt Preſervation which can be had in this World.</p>
+                  <closer>
+                     <signed>So witneſſeth, <hi>Richard Staffard,</hi> a Scribe accord<g ref="char:EOLhyphen"/>ing to the Promiſe and ſending of Jeſus Chriſt Who all that he ſpake, did or ſuffered, was to this great and only end, <hi>That he might bring us to God.</hi>
+                     </signed>
+                     <dateline>Dated from <hi>London,</hi> 
+                        <date>
+                           <hi>July</hi> 21. 1691.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
